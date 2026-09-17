@@ -9,8 +9,9 @@ A consolidated set of identity, cloud, and endpoint management labs: Azure RBAC,
 3. [VM User Account Setup](03-vm-user-account-setup/README.md) — Entra ID user provisioning across multi-region Windows Server 2025 VMs
 4. [Storage Security & Data Management](04-storage-security-and-data-management/README.md) — GZRS redundancy, encryption, lifecycle rules, and recovery procedures
 5. [Cloud File Sharing for Teams](05-cloud-file-sharing-for-teams/README.md) — Azure Files shares, quotas, and snapshot-based recovery
-6. [Active Directory: Shared Drives & Security Groups](06-active-directory-shared-drives-security-groups/README.md) — OUs, security groups, and NTFS permissions on Windows Server 2016
-7. [MDM with MaaS360](07-mdm-with-maas360/README.md) — iOS enrollment, policy enforcement, and scoped Help Desk role access
+6. [Storage Queues for App Communication](06-storage-queues-app-communication/README.md) — asynchronous messaging between app components using Azure Storage Queues
+7. [Active Directory: Shared Drives & Security Groups](07-active-directory-shared-drives-security-groups/README.md) — OUs, security groups, and NTFS permissions on Windows Server 2016
+8. [MDM with MaaS360](08-mdm-with-maas360/README.md) — iOS enrollment, policy enforcement, and scoped Help Desk role access
 
 ---
 
